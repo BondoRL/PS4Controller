@@ -1,6 +1,6 @@
 {
-  "Version": "2.4.1",
-  "Url": "https://github.com/BondoRL/PS4Controller/releases/download/v2.4.1/PS-Controller-Setup-2.4.1.exe",
-  "Sha256": "5FB9CF9ACD1623C3450B974314A1EF06503AEE6E6BC9711034A237984BB6BE34",
-  "Notes": "Version 2.4.1\r\n- Neuer Name: PS-Controller.\r\n- „By, Bondo“ am unteren Fensterrand. Der blaue, unterstrichene Link öffnet den Discord-Server.\r\n- Installer mit automatischer Einrichtung fehlender ViGEmBus- und HidHide-Treiber.\r\n- Automatische Update-Suche und geprüfte Downloads; Installation per Klick.\r\n- Öffentliche Website und Release-Seite. App-Quellcode bleibt privat."
+  "Version": "2.4.2",
+  "Url": "https://github.com/BondoRL/PS4Controller/releases/download/v2.4.2/PS-Controller-Setup-2.4.2.exe",
+  "Sha256": "49BDCAAB3243BCB26233E7374317B6F6F54BDFB5499553344CE2862AA4103BA1",
+  "Notes": "Version 2.4.2\r\n- The app is now English only, including updates, overlays and app error messages.\r\n- Removed the language selector. Previous language preferences automatically use English.\r\n- Simplified the website and translated every page and release note into English.\r\n- The installer is now English only. Automatic driver downloads and updates are unchanged.\r\n- Small web installer under 10 MB: the app and missing drivers are downloaded during setup.\r\n- Removed unnecessary setup pages and our own copyright notices."
 }

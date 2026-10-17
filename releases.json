@@ -1,5 +1,11 @@
 [
   {
+    "version": "2.4.2",
+    "date": "2026-10-17",
+    "notes": "Version 2.4.2\r\n- The app is now English only, including updates, overlays and app error messages.\r\n- Removed the language selector. Previous language preferences automatically use English.\r\n- Simplified the website and translated every page and release note into English.\r\n- The installer is now English only. Automatic driver downloads and updates are unchanged.\r\n- Small web installer under 10 MB: the app and missing drivers are downloaded during setup.\r\n- Removed unnecessary setup pages and our own copyright notices.",
+    "url": "https://github.com/BondoRL/PS4Controller/releases/download/v2.4.2/PS-Controller-Setup-2.4.2.exe"
+  },
+  {
     "version": "2.4.1",
     "date": "2026-10-17",
     "notes": "Version 2.4.1\n- Renamed the app to PS-Controller.\n- Added the blue, underlined Bondo credit linking to Discord.\n- Installer automatically sets up missing ViGEmBus and HidHide drivers.\n- Automatic update checks and verified downloads; installation starts when you choose.\n- Public website and releases. Application source remains private.",
