@@ -1,2 +1,1 @@
-Copyright (c) 2026 BondoRL. All rights reserved.
-Application binaries are proprietary. Unmodified official installers may be shared without charge. Third-party licenses remain applicable.
+PS-Controller application source is private and is not published as open source. You may use the official application and share the unmodified installer. Third-party components retain their respective terms.

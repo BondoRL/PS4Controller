@@ -1,5 +1,5 @@
 # PS-Controller
 
-Official downloads and product website: https://bondorl.github.io/PS4Controller/
+Downloads and information: https://bondorl.github.io/PS4Controller/
 
-Application source is private and proprietary. This repository contains only public website files, release metadata and binary releases.
+This repository contains the public English website and binary releases. Application source code is private.
