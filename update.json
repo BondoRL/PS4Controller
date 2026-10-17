@@ -1,0 +1,6 @@
+{
+  "Version": "2.4.0",
+  "Url": "https://github.com/BondoRL/PS4Controller/releases/download/v2.4.0/PS4Controller-Setup-2.4.0.exe",
+  "Sha256": "67E225F01EEB84A975B2BB8DF33596B2803D0111B54DA487B9BCBAEB10F7D84F",
+  "Notes": "Version 2.4.0\n- Windows-Installer mit automatischem Download und Installation von ViGEmBus und HidHide.\n- Automatische Update-Suche beim Start und alle sechs Stunden.\n- Updates werden heruntergeladen und per SHA-256 geprüft; die Installation startet erst auf Wunsch.\n- Öffentliche Info-, Download- und Release-Seiten. Der App-Quellcode bleibt privat."
+}

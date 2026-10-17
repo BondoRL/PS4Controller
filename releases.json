@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "version": "2.4.0",
+    "date": "2026-10-17",
+    "notes": "Version 2.4.0\n- Windows-Installer mit automatischem Download und Installation von ViGEmBus und HidHide.\n- Automatische Update-Suche beim Start und alle sechs Stunden.\n- Updates werden heruntergeladen und per SHA-256 geprüft; die Installation startet erst auf Wunsch.\n- Öffentliche Info-, Download- und Release-Seiten. Der App-Quellcode bleibt privat.",
+    "url": "https://github.com/BondoRL/PS4Controller/releases/download/v2.4.0/PS4Controller-Setup-2.4.0.exe"
+  }
+]
