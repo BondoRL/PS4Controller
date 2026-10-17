@@ -1,6 +1,6 @@
 {
-  "Version": "2.4.2",
-  "Url": "https://github.com/BondoRL/PS4Controller/releases/download/v2.4.2/PS-Controller-Setup-2.4.2.exe",
-  "Sha256": "49BDCAAB3243BCB26233E7374317B6F6F54BDFB5499553344CE2862AA4103BA1",
-  "Notes": "Version 2.4.2\r\n- The app is now English only, including updates, overlays and app error messages.\r\n- Removed the language selector. Previous language preferences automatically use English.\r\n- Simplified the website and translated every page and release note into English.\r\n- The installer is now English only. Automatic driver downloads and updates are unchanged.\r\n- Small web installer under 10 MB: the app and missing drivers are downloaded during setup.\r\n- Removed unnecessary setup pages and our own copyright notices."
+  "Version": "2.4.3",
+  "Url": "https://github.com/BondoRL/PS4Controller/releases/download/v2.4.3/PS-Controller-Setup-2.4.3.exe",
+  "Sha256": "7CE9481389D720B1BF128A69F66CEE6B0285F883CA84A92BA270BB219D129FE6",
+  "Notes": "Version 2.4.3\r\n- Fixed incorrect silent-install switches for both ViGEmBus and HidHide.\r\n- Driver setup now writes persistent Windows Installer logs and a setup summary.\r\n- Added an Open setup logs button on failure instead of generic restart advice.\r\n- Existing drivers are checked for their files and enabled service configuration.\r\n- Correctly handles restart-required results, cancelled setup and another installation in progress.\r\n- Bounded retry for a busy Windows Installer and one visible-progress recovery attempt for bootstrapper failures.\r\n- Verified downloads are reused when retrying setup. The web installer remains under 10 MB."
 }
