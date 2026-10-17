@@ -1,4 +1,4 @@
-# PS4 Controller
+# PS-Controller
 
 Official downloads and product website: https://bondorl.github.io/PS4Controller/
 
