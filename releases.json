@@ -1,5 +1,11 @@
 [
   {
+    "version": "2.4.1",
+    "date": "2026-10-17",
+    "notes": "Version 2.4.1\r\n- Neuer Name: PS-Controller.\r\n- „By, Bondo“ am unteren Fensterrand. Der blaue, unterstrichene Link öffnet den Discord-Server.\r\n- Installer mit automatischer Einrichtung fehlender ViGEmBus- und HidHide-Treiber.\r\n- Automatische Update-Suche und geprüfte Downloads; Installation per Klick.\r\n- Öffentliche Website und Release-Seite. App-Quellcode bleibt privat.",
+    "url": "https://github.com/BondoRL/PS4Controller/releases/download/v2.4.1/PS-Controller-Setup-2.4.1.exe"
+  },
+  {
     "version": "2.4.0",
     "date": "2026-10-17",
     "notes": "Version 2.4.0\n- Windows-Installer mit automatischem Download und Installation von ViGEmBus und HidHide.\n- Automatische Update-Suche beim Start und alle sechs Stunden.\n- Updates werden heruntergeladen und per SHA-256 geprüft; die Installation startet erst auf Wunsch.\n- Öffentliche Info-, Download- und Release-Seiten. Der App-Quellcode bleibt privat.",
